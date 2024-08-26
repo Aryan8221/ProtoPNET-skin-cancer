@@ -1,4 +1,3 @@
-<p>
 This code package implements the prototypical part network (ProtoPNet)
 from the paper "This Looks Like That: Deep Learning for Interpretable Image Recognition"
 (to appear at NeurIPS 2019), by Chaofan Chen* (Duke University), Oscar Li* (Duke University),
@@ -62,4 +61,3 @@ the nearest latent training patches, before running this script
 
 Instructions for combining several ProtoPNet models (Jupyter Notebook required):
 1. Run the Jupyter Notebook combine_models.ipynb
-</p>
